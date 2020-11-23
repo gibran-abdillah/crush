@@ -1,6 +1,10 @@
 <h2 align="center"> Crush (Crack Your Hash) </h2>
 
+![Build Status](https://travis-ci.com/relarizky/crush.svg?branch=main)]
 ![Github Star](https://img.shields.io/github/stars/relarizky/crush?style=social)
+![Github Fork](https://img.shields.io/github/forks/relarizky/crush?style=social)
+![Github Watch](https://img.shields.io/github/watchers/relarizky/crush?style=social)
+![Code Size](https://img.shields.io/github/languages/code-size/relarizky/crush?color=brightgreen)
 
 <i>Crush</i> is a simple python script for cracking hash
 
