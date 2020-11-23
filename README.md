@@ -2,7 +2,7 @@
 
 ![Build Status](https://travis-ci.com/relarizky/crush.svg?branch=main)
 ![Code Size](https://img.shields.io/github/languages/code-size/relarizky/crush?color=brightgreen)
-![Repo Size](https://img.shields.io/github/repo-size/relarizky/crush)
+![Repo Size](https://img.shields.io/github/repo-size/relarizky/crush?color=brightgreen)
 ![Language](https://img.shields.io/github/languages/top/relarizky/crush?color=brightgreen)
 ![Github Star](https://img.shields.io/github/stars/relarizky/crush?style=social)
 ![Github Fork](https://img.shields.io/github/forks/relarizky/crush?style=social)
