@@ -1,3 +1,7 @@
 language: python
-python: - 3.7.5
-script: - python3 crush.py
+
+python: 
+        - 3.7.5
+
+script: 
+        - python3 crush.py
