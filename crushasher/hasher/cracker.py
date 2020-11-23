@@ -1,7 +1,7 @@
 # Author : Relarizky & Gibran
 # Github : @relarizky & @gibran-abdillah
 # File   : cracker.py
-# Last Modified : 11/22/20, 16:45 PM
+# Last Modified : 11/22/20, 12:10 PM
 # Copyright © 2020 Relarizky x Gibran
 
 
