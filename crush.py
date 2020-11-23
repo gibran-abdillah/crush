@@ -1,7 +1,7 @@
 # Author : Relarizky & Gibran
 # Github : @relarizky & @gibran-abdillah
 # File   : wordlist.py
-# Last Modified : 11/22/20, 16:10 PM
+# Last Modified : 11/23/20, 14:45 PM
 # Copyright © 2020 Relarizky x Gibran
 
 
