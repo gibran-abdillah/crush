@@ -1,11 +1,10 @@
 <h2 align="center"> Crush (Crack Your Hash) </h2>
-<hr>
+
+![Github Star](https://img.shields.io/github/stars/relarizky/crush?style=social)
 
 <i>Crush</i> is a simple python script for cracking hash
-<br>
-This tool will automatically identify the hash type and performing some techniques to crack it.
 
-Supported hash
+## Supported hash
 |Hash|Status|
 |----|------|
 |MD5|✔|
