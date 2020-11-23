@@ -18,7 +18,7 @@ class ArgumentParser(ArgParseClass):
 
     def error(self, message):
         self.print_help()
-        os._exit(1)
+        os._exit(0)
 
 
 parser = ArgumentParser(
