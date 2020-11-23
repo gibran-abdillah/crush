@@ -49,11 +49,8 @@ class HashGenerator(HashStringGenerator):
     # Should not be accessed outside this class
     # And will not be inherited to the sub class
     def __generate(self, type: str, string: str):
-        if type == "md5":
-            self.hash_string = self.md5(string)
-        elif type == "sha1":
-            self.hash_string = self.sha1(string)
-        elif type == "sha256":
-            self.hash_string = self.sha256(string)
-        elif type == "sha512":
-            self.hash_string = self.sha512(string)
+        hashes = {
+            "md5": self.md5(string), "sha1": self.sha1(string),
+            "sha256": self.sha256(string), "sha512": self.sha512(string)
+        }
+        self.hash_string = hashes[type]
